@@ -1,0 +1,23 @@
+.myBackground {
+    background-image: url(/images/backGroundImage.jpg);
+}
+
+.quizImage {
+    background-image: url(/images/QuizImage.jpg);
+}
+
+.adaImage {
+    background-image: url(/images/AdaImage.jpg);
+}
+
+.answerResult {
+    background-image: url(/images/odometro.jpg);
+}
+
+.clicked-change {
+    background-color: blue;
+    opacity: 0.6;
+    border-style: double;
+    border-radius: 20%;
+
+}
